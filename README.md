@@ -1,5 +1,5 @@
 # Prime Time
-PrimeCrafter is a command-line Python script designed to generate large prime numbers and factorize composite numbers. It is particularly useful for demonstrating the principles of public key cryptography, as it illustrates the challenge of factoring large numbers, a problem that ensures the security of cryptographic algorithms like RSA.
+PrimeTime.py is a command-line Python script designed to generate large prime numbers and factorize composite numbers. It is particularly useful for demonstrating the principles of public key cryptography, as it illustrates the challenge of factoring large numbers, a problem that ensures the security of cryptographic algorithms like RSA.
 
 # Requirements:
 - No requirements other than a Python interpreter (Python 3.x recommended)
