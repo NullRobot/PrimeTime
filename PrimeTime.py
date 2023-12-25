@@ -54,7 +54,7 @@ def format_time(seconds):
 
 if __name__ == "__main__":
     if len(sys.argv) < 2:
-        print("Usage: python PrimeMaster.py <composite_number> or python PrimeMaster.py --generate <length>")
+        print("Usage: python PrimeTime.py <composite_number> or python PrimeTime.py --generate <length>")
         sys.exit(1)
     
     if sys.argv[1] in ["--generate", "-g"]:
