@@ -7,14 +7,14 @@ PrimeTime.py is a command-line Python script designed to generate large prime nu
 # Usage:
 To use PrimeCrafter, navigate to the directory containing the script and run it using the Python interpreter. There are two main modes of operation:
 
-1. Generating Prime Numbers:
+1. **Generating Prime Numbers**:
    To generate prime numbers of a specific length (number of digits), use the following command:
    ```
    python PrimeCrafter.py --generate <length>
    ```
    Replace `<length>` with the desired length of the prime numbers.
 
-2. Factorizing Composite Numbers:
+2. **Factorizing Composite Numbers**:
    To factorize a composite number and estimate the time it would take to do so, use the following command:
    ```
    python PrimeCrafter.py <composite_number>
